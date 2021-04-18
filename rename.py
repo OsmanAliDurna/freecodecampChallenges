@@ -1,5 +1,4 @@
-text = """ Python: Division"""
+text = """Declare JavaScript Variables"""
 
-print("hackerRank" +
-text.title().replace(" ","").replace('"',"").replace("?","").replace("!","").replace("'","").replace(",","").replace(":","") +
-".py")
+print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
+      ".js")
