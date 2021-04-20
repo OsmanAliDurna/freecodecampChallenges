@@ -1,4 +1,4 @@
-text = """Assigning the Value of One Variable to Another"""
+text = """Initializing Variables with the Assignment Operator"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
