@@ -1,4 +1,4 @@
-text = """Initializing Variables with the Assignment Operator"""
+text = """Understanding Uninitialized Variables"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
