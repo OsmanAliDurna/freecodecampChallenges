@@ -1,4 +1,4 @@
-text = """Compound Assignment With Augmented Subtraction"""
+text = """Compound Assignment With Augmented Multiplication"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
