@@ -1,4 +1,4 @@
-text = """Concatenating Strings with the Plus Equals Operator"""
+text = """Constructing Strings with Variables"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
