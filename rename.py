@@ -1,4 +1,4 @@
-text = """Modify Array Data With Indexes"""
+text = """Access Multi-Dimensional Arrays With Indexes"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("-", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
