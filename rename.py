@@ -1,4 +1,4 @@
-text = """Nest one Array within Another Array"""
+text = """Access Array Data with Indexes"""
 
 print(text.title().replace(" ", "").replace('"', "").replace("?", "").replace("-", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
