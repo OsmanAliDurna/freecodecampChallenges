@@ -1,4 +1,4 @@
-text = """Comparison with the Inequality Operator"""
+text = """Comparison with the Strict Inequality Operator"""
 
 print(text.title().replace(" ", "").replace("(", "").replace(")", "").replace('"', "").replace("?", "").replace(".", "").replace("-", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
