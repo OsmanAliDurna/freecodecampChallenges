@@ -1,4 +1,4 @@
-text = """Comparison with the Less Than Or Equal To Operator"""
+text = """Comparisons with the Logical And Operator"""
 
 print(text.title().replace(" ", "").replace("(", "").replace(")", "").replace('"', "").replace("?", "").replace(".", "").replace("-", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
