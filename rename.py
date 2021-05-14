@@ -1,4 +1,4 @@
-text = """Comparisons with the Logical Or Operator"""
+text = """Introducing Else Statements"""
 
 print(text.title().replace(" ", "").replace("(", "").replace(")", "").replace('"', "").replace("?", "").replace(".", "").replace("-", "").replace("!", "").replace("'", "").replace(",", "").replace(":", "") +
       ".js")
